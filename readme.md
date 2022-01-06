@@ -14,3 +14,5 @@ Users have the ability to:
 
 Only the users who are registered and logged in can bid, create new listings, add comments and add items to
 their watchlist.
+
+Wahooooo this is the major thing !!!!
